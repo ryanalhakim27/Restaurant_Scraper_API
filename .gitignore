@@ -1,0 +1,5 @@
+#Ignore VENV
+/venv/
+
+#ignore env
+*.env
